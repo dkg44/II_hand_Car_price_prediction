@@ -21,7 +21,7 @@
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
       <input type="number" name="Year_old" placeholder="Car Model Year" required="required" /><br>
-    	<input type="number" name="Present_Price" placeholder="What is the Showroom Price?(In lakhs)" required="required" /><br>
+    	<input type="number" step="any" name="Present_Price" placeholder="What is the Showroom Price?(In lakhs)" required="required" /><br>
         <input type="number" name="Kms_Driven" placeholder="How Many Kilometers Drived?" required="required" /><br>
         <input type="number" name="Owner" placeholder="How much owners previously had the car(0 or 1 or 3) ?" required="required" /><br>
         <label for='dealer'>Owner Type</label>
