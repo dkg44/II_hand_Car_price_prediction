@@ -20,4 +20,7 @@ The Whole Application Is Deployed Live on Server Using Microsoft Azure App Servi
 <br>
 ![image](https://user-images.githubusercontent.com/69205225/152641990-493026d3-bb53-47a3-9b3f-83108f0d0c1a.png)
 <br> Here is the App Performance On Azure Portal
+<br>
+
+
 ![image](https://user-images.githubusercontent.com/69205225/152642056-29317bc0-344f-4141-a680-06f1b27464b1.png)
